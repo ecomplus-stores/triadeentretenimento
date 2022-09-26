@@ -1,5 +1,5 @@
 {
-  "domain": "triadeentretenimento.netlify.app",
+  "domain": "triadeingressos.com.br",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "logo": "/img/uploads/1647392608141-image01.png",
   "name": "TRÍADE INGRESSOS",
-  "short_name": "triadeingressos",
+  "short_name": "TRÍADE INGRESSOS",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -20,6 +20,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/1647392608141-image01.png",
   "store_id": 37403,
-  "description": "triadeingressos",
+  "description": "Todo evento vira um momento ÚNICO!",
   "large_icon": "/img/uploads/1647392608141-image01.png"
 }
