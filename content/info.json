@@ -9,8 +9,8 @@
   },
   "exchange": {
     "show": true,
-    "text": "Se realizou uma compra no site e por motivos particulares deseja o cancelamento de sua compra, é preciso que siga as regras expressas: 1) Conforme determinado pelo Código de Defesa do Consumidor, o cancelamento do ingresso deverá ser, obrigatoriamente, solicitado em até 07 (sete) dias corridos, contados a partir da data da efetivação da compra. Para eventos adquiridos em prazo inferior a 07 (sete) dias da realização do evento, o prazo máximo de cancelamento é de 48 horas antes da realização do evento. Cancelamentos solicitados fora desse prazo não serão acatados; 2) Para solicitar o cancelamento de sua compra realizada através do site, encaminhe um e-mail para triade.ingressos@gmail.com, encaminhando o comprovante da compra, confirmando a ciência nas regras de estorno; 3) Quando efetuamos o cancelamento de um pedido, enviamos automaticamente a solicitação de reembolso ao banco emissor do cartão de crédito utilizado. O prazo para visualizar o estorno pode levar até duas faturas, conforme data de fechamento de seu cartão, ou seja, se a fatura que está com a compra do ingresso lançada estiver fechada ou em processo de fechamento, o valor será estornado no próximo mês, conforme prazos e regras da administradora do cartão de crédito.",
-    "title": "Trocas e devoluções"
+    "text": "",
+    "title": ""
   },
   "promo": {
     "show": true,
