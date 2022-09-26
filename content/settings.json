@@ -1,25 +1,25 @@
 {
-  "store_id": 37403,
-  "name": "triadeentretenimento",
   "domain": "triadeentretenimento.netlify.app",
-  "short_name": "triadeentretenimento",
-  "description": "triadeentretenimento",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/1647392608141-image01.png",
+  "name": "TRÍADE INGRESSOS",
+  "short_name": "triadeingressos",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/1647392608141-image01.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/1647392608141-image01.png",
+  "store_id": 37403,
+  "description": "triadeingressos",
+  "large_icon": "/img/uploads/1647392608141-image01.png"
 }
