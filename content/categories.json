@@ -2,23 +2,23 @@
   "sections": [
     {
       "type": "breadcrumbs",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "page-title"
     },
     {
       "type": "document-banner",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "category-retail",
-      "enabled": true,
+      "enabled": false,
       "sort": "sales"
     },
     {
       "type": "document-description",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
