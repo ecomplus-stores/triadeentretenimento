@@ -5,12 +5,12 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "",
     "list": []
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categorias",
+    "title": "",
     "list": []
   },
   "contacts": {
@@ -27,20 +27,20 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
-    "boleto": true,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
