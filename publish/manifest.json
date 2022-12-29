@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c6b6ba85661a45386b9b6706b7c767e1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4ee4bd82078d874027a2f81edb31ce42.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.aed2e75686f39011a91e6bbd889f01d4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a2b9ff10e9e587864f38b51a860941bf.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.fce27558c8f0d02485234d4b64b342bc.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "TRÍADE INGRESSOS",
+  "short_name": "TRÍADE INGRESSOS",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Todo evento vira um momento ÚNICO!",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
